@@ -25,8 +25,8 @@ The application provides the following API routes for interacting with emails:
 
 ### Prerequisites
 
-- Python 3.x
-- Django 3.x or later
+- Python 3.10
+- Django 3
 
 ### Installation
 
