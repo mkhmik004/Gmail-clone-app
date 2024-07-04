@@ -33,6 +33,6 @@ The application provides the following API routes for interacting with emails:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/mail-client.git
-   cd mail-client
+   git clone repo
+   cd into folder
 
